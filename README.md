@@ -1,2 +1,2 @@
 # ML
-Just Some Pyhton Codes to do Machune Learning Stuff
+Just Some Python Codes to do Machine Learning Stuff
