@@ -36,9 +36,8 @@ xTest = scX.transform(xTest)
 
 
 # Imporiting Keras Libraries and Packages
-import keras
 from keras.models import Sequential
-from keras.layers.core import Dense
+from keras.layers import Dense
 
 # Initaializing ANN
 classifier = Sequential()
